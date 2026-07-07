@@ -1,6 +1,6 @@
 # HADR Monitor
 
-A monitoring agent for humanitarian assistance and disaster response (HADR).
+A starter template for a three-day course on building an autonomous monitoring agent for humanitarian assistance and disaster response (HADR). You build it out yourself — the sections below describe the end state and the path there, not what already exists in this repo.
 
 ## The end state
 
